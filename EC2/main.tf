@@ -3,6 +3,9 @@ provider "aws" {
   shared_credentials_files = ["~/.aws/credentials"]
 }
 
+# YE feature branch me changes kar diya
+# Ye kar diya OP branch se changes
+
 terraform {
   required_providers {
     aws = {
